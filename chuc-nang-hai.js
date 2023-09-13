@@ -1,1 +1,0 @@
-alert('day la chuc nang hai')
