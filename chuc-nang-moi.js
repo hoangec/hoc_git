@@ -1,0 +1,1 @@
+alert ('day la chuc nang moi')
